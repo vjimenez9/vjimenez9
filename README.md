@@ -10,13 +10,13 @@
 - 📫 How to reach me :  my email : veronica.jimenez@ibt.unam.mx
 
 👋 ¡Hola!  soy @vjimenez9. (Veronica Jimenez Jacinto)
-- 👀 Trabajo en  Bioinformatica, Expresión Diferencial de Genes y Ensable de transcritos de Novo
-- Soy Licenciada en Matemáticas Aplicadas y computación, por la UNAM y Maestra en Ciencias por el CINVESTAV
+- 👀 Trabajo en  Bioinformatica, Expresión Diferencial de Genes y Ensamble de transcritos de Novo
+- Soy Licenciada en Matemáticas Aplicadas y computación, por la Universidad Nacional Autonoma de Mexico (UNAM) y Maestra en Ciencias por el Centro de Investigación y Estudios Avanzados (CINVESTAV)
 - 🌱 Frecuentemente impartimos curso de Herramientas Bioinofrmaticas para el Análisis de Secuenciación Masiva, alinemaientos,  Transcriptomica y R
 - Soy co-fundadora de  RLadies Cuernavaca, Morelos, Mexico, la cual es parte de  Rladies global (https://rladies.org/)
--    Trabajo en la Unidad Universitaria de Secuenciación Masiva y Bioinformatica con sede en el  Instituto de Biotecnologia de la  UNAM.
+-    Trabajo en la Unidad Universitaria de Secuenciación Masiva y Bioinformatica con sede en el  Instituto de Biotecnologia de la  UNAM. (www.uusmb.unam.mx/)
 - 💞️ Me encanta colaborar en análisis de datos
-- Actualmente son la responsable del sistema de gestion de calidad del Laboratorio Nacional de Apoyo Tecnólogico para las ciencias Genómicas.
+- Actualmente son la responsable del sistema de gestion de calidad del Laboratorio Nacional de Apoyo Tecnólogico para las ciencias Genómicas. (http://lnatcg.unam.mx/)
 - Estoy certificada por  Carpentries para la enseñanza de computo para cientificos y para el entrenamiento de instructores. (carpentries.org)
 - 📫 contactame: veronica.jimenez@ibt.unam.mx
 
